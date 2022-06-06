@@ -44,3 +44,5 @@ Like so:
 term_reset_cmd = /usr/bin/tput reset; /usr/bin/printf '%%b' '\e]P0FFC5C4\e]P7FFFFFF\ec'
 ```
 Now reboot and you should be good to go! 🤩
+
+[Source](https://github.com/fairyglade/ly/issues/146)
